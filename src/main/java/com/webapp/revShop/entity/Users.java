@@ -19,6 +19,7 @@ public class Users implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+
     private Integer user_id;
 
     private String user_name;
@@ -28,8 +29,6 @@ public class Users implements Serializable {
     private String user_password;
 
     private String user_role;
-
-    private String user_status;
 
 //    public  enum User_role{
 //        BUYER,
