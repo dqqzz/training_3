@@ -1,0 +1,6 @@
+Summary of Components to be Made:
+- Navbar
+- SignInAndRegister
+- Profile
+- CartCard
+- Home

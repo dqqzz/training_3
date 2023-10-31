@@ -1,0 +1,5 @@
+Pages to set up:
+- Home
+- Browse
+- Products (Seller)
+- Profile (if not signed in, can sign in or register here)

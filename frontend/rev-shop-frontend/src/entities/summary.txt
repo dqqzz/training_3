@@ -1,0 +1,29 @@
+Entities to create:
+- User 
+    o user_id
+    o user_name
+    o user_email
+    o user_password
+    o user_role -> enum (buyer, seller, admin)
+- Products
+    o product_id
+    o product_desc
+    o product_price
+    o product_imageurl
+    o product_rating?
+    o FK category_id
+- Categories
+    o category_id
+    o category_name
+- Cart 
+    o cart_id key 
+    o FK user_id 
+    o FK product_id 
+    o FK bill_id
+        
+- Billing
+    o bill_id
+    o billing_date
+    o bill_price
+    o bill_pmt-method
+    o FK user_id
