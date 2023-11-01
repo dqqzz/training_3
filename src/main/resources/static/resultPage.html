@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Result Page</title>
+</head>
+<body>
+<pre>
+        <!-- Iterate over the tickets and display them as plain text -->
+        <span th:each="ticket : ${tickets}">
+            Ticket ID: [[${ticket.id}]]
+            Description: [[${ticket.description}]]
+            <!-- Add more fields as needed -->
+            <!-- Use double square brackets to avoid Thymeleaf processing -->
+        </span>
+    <div>{{tickets}}</div>
+    <div>${tickets}</div>
+    </pre>
+</body>
+</html>

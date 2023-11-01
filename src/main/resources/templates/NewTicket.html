@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Ticket</title>
+</head>
+<body>
+    <h1>Welcome! you logged in,please provide the problem details</h1>
+        <form action="./tickets" method="post">
+            <label for="userId">User Id</label>
+            <input type="number" id="userId" name="userId" placeholder="userId"/>
+            <br/>
+            <label for="ticketId">Ticket Id</label>
+            <input type="number" id="ticketId" name="ticketId" placeholder="ticketId"/>
+            <br/>
+            <label for="Description">Ticket Description</label>
+            <input type="text" id="Description" name="Description" placeholder="Description"/>
+            <br/>
+            <label for="resolved">Ticket resolving status</label>
+            <input type="checkbox" id="resolved" checked="checked" placeholder="resolved"/>
+            <input type="submit" value="submit">
+        </form>
+
+</body>
+</html>

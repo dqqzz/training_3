@@ -1,5 +1,0 @@
-Services to be created:
-- Registration
-- Login
-- Create product
-- Add to cart 

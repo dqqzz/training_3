@@ -4,119 +4,135 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493b743e-9876-47c1-bf77-7648cc4d34d2" name="Changes" comment="" />
+    <list default="true" id="9fc479e2-9379-45e4-acd9-918f6caaefaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="TypeScript JSX File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2XMPndMyH8MGREeI7ltC96kTPaQ" />
+  <component name="ProjectId" id="2WjasEiHAc4O9dg9hN33OAqQf8I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zouxy/OneDrive/Desktop/project_1_frontend/backend_from revature repository&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;7bfa4755ede9ab3774b6ac8bb0e94a8f&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/zouxy/OneDrive/Desktop/project_1_frontend/project_1/project_1_backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "spring.configuration.checksum": "4c3dafc3f16403f26afd8b8b1fb55a17",
+    "ts.external.directory.path": "C:\\IntelliJ IDEA 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.webapp.revShop.service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.webapp.revShop.service" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.RevShopBackendApplication">
-    <configuration name="BillServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="revShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.webapp.revShop.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.webapp.revShop.service" />
-      <option name="MAIN_CLASS_NAME" value="com.webapp.revShop.service.BillServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RevatureProject5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="revature-project-5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.revatureproject5.RevatureProject5Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevShopBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="revShop" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.webapp.revShop.RevShopBackendApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.BillServiceImplTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="493b743e-9876-47c1-bf77-7648cc4d34d2" name="Changes" comment="" />
-      <created>1698436144093</created>
+      <changelist id="9fc479e2-9379-45e4-acd9-918f6caaefaa" name="Changes" comment="" />
+      <created>1697248650032</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698436144093</updated>
-      <workItem from="1698436145105" duration="416000" />
-      <workItem from="1698436898705" duration="3791000" />
-      <workItem from="1698511621288" duration="205000" />
-      <workItem from="1698523690128" duration="46000" />
-      <workItem from="1698539253403" duration="1183000" />
-      <workItem from="1698595594529" duration="4163000" />
-      <workItem from="1698603372381" duration="183000" />
+      <updated>1697248650032</updated>
+      <workItem from="1697248651046" duration="5320000" />
+      <workItem from="1697292138200" duration="8253000" />
+      <workItem from="1697300798820" duration="14295000" />
+      <workItem from="1697378999247" duration="17414000" />
+      <workItem from="1697399466863" duration="623000" />
+      <workItem from="1697416756678" duration="35000" />
+      <workItem from="1697417568823" duration="231000" />
+      <workItem from="1697417833651" duration="22000" />
+      <workItem from="1697417895054" duration="3542000" />
+      <workItem from="1697421814692" duration="5527000" />
+      <workItem from="1697430321062" duration="934000" />
+      <workItem from="1697659839867" duration="2421000" />
+      <workItem from="1697671509660" duration="782000" />
+      <workItem from="1697681832592" duration="3619000" />
+      <workItem from="1697688590666" duration="224000" />
+      <workItem from="1697716123491" duration="803000" />
+      <workItem from="1697717821299" duration="25000" />
+      <workItem from="1697717957015" duration="1741000" />
+      <workItem from="1697743196975" duration="1948000" />
+      <workItem from="1697823490841" duration="2403000" />
+      <workItem from="1697846955060" duration="20041000" />
+      <workItem from="1697997334021" duration="4858000" />
+      <workItem from="1698007291548" duration="6740000" />
+      <workItem from="1698016740780" duration="3582000" />
+      <workItem from="1698022617128" duration="1084000" />
+      <workItem from="1698023974435" duration="16000" />
+      <workItem from="1698024193043" duration="58000" />
+      <workItem from="1698031273326" duration="3287000" />
+      <workItem from="1698063666528" duration="13635000" />
+      <workItem from="1698100954840" duration="1801000" />
+      <workItem from="1698179399474" duration="7280000" />
+      <workItem from="1698200448263" duration="4715000" />
+      <workItem from="1698212553729" duration="243000" />
+      <workItem from="1698234198414" duration="101000" />
+      <workItem from="1698238882929" duration="1055000" />
+      <workItem from="1698249403657" duration="33000" />
+      <workItem from="1698418815106" duration="1225000" />
+      <workItem from="1698432956781" duration="1444000" />
+      <workItem from="1698435340234" duration="801000" />
+      <workItem from="1698497574174" duration="558000" />
+      <workItem from="1698865613426" duration="1371000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
